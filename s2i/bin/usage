@@ -1,2 +1,3 @@
 #!/bin/ash
-echo "This is usage"
+echo "Override the usage file with your own .s2i/bin/usage"
+

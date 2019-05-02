@@ -1,3 +1,3 @@
 #!/bin/ash
-echo "this is assemble"
+echo "Override the assemble file with your own .s2i/bin/assemble"
 
